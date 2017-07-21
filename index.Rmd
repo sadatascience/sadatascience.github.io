@@ -21,3 +21,5 @@ Date/Location TBD - Meghann Agarwal, a data scientist at Curb (Home Energy Manag
 
 
 ### Resources from past events
+
+[Efficient Data Science with R](efficient-data-science/efficient-data-science.html), 6/22/17, Brandon Loudermilk
